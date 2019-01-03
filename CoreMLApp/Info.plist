@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>CoreML want to use your photo library</string>
+	<key>NSCameraUsageDescription</key>
+	<string>CoreML want to access your camera</string>
 </dict>
 </plist>
