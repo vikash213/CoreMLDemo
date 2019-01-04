@@ -11,6 +11,7 @@ import CoreML
 
 class ViewController: UIViewController, UINavigationControllerDelegate, UIImagePickerControllerDelegate {
 
+    //MARK: - IBOutlets
     @IBOutlet weak var imageview: UIImageView!
     @IBOutlet weak var imagetypeLabel: UILabel!
 
